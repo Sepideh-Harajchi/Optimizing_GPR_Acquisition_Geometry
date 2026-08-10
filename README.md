@@ -46,13 +46,13 @@ The GPR survey comprised 21 longitudinal profiles (7 survey groups × 3 antenna 
 #### Survey figures
 
 <p align="center">
-  <img src="00_GPR_Survey/Fig1.png" width="850" alt="Figure 1 - Study site location">
+  <img src="00_GPR_Survey/Fig1.pdf" width="850" alt="Figure 1 - Study site location">
 </p>
 
 <p align="center"><em>Figure 1. Location of the study site along the Delft–Schiedam railway corridor in Schiedam, the Netherlands, including the approximately 200 m investigated railway section.</em></p>
 
 <p align="center">
-  <img src="00_GPR_Survey/Fig2.png" width="850" alt="Figure 2 - GPR survey layout">
+  <img src="00_GPR_Survey/Fig2.pdf" width="850" alt="Figure 2 - GPR survey layout">
 </p>
 
 <p align="center"><em>Figure 2. Survey layout showing the seven longitudinal GPR profile groups (G1–G7), railway tracks, boreholes, and CPT locations.</em></p>
